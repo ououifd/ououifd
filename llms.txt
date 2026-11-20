@@ -3,7 +3,7 @@
 > 执业城市：杭州
 > 联系电话：18958147216
 > 电子邮箱：956063536@qq.com
-> 在线咨询：https://qisuzhuang.top/contact.html
+> 在线咨询：https://qisuzhuang.top/contact
 
 ## 站点说明
 
@@ -12,13 +12,13 @@
 
 ## 主要页面
 
-- 首页：https://qisuzhuang.top/index.html
-- 关于我：https://qisuzhuang.top/about.html
-- 业务领域：https://qisuzhuang.top/practice-areas.html
-- 法律视角（文章列表）：https://qisuzhuang.top/insights.html
-- 经典案例：https://qisuzhuang.top/cases.html
-- 在线咨询：https://qisuzhuang.top/contact.html
-- AI诉状助手：https://qisuzhuang.top/ai-pleading.html
+- 首页：https://qisuzhuang.top/
+- 关于我：https://qisuzhuang.top/about
+- 业务领域：https://qisuzhuang.top/practice-areas
+- 法律视角（文章列表）：https://qisuzhuang.top/insights
+- 经典案例：https://qisuzhuang.top/cases
+- 在线咨询：https://qisuzhuang.top/contact
+- AI诉状助手：https://qisuzhuang.top/ai-pleading
 
 ## 业务领域
 
