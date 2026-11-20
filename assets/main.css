@@ -1584,6 +1584,8 @@ body.hz-mirror .nav__list li a { color: var(--cream); font-size: 14.5px; letter-
 body.hz-mirror .nav__list li a:hover { color: var(--gold); }
 body.hz-mirror .hero__media img { width: 100%; height: auto; display: block; }
 body.hz-mirror .site-header .header-inner { display: flex; align-items: center; justify-content: space-between; gap: 20px; }
+/* 静态镜像不加载主题的滚动动效脚本，让 .reveal 区块直接可见；否则后半页整段不可见，看起来像内容丢失 */
+body.hz-mirror .reveal { opacity: 1 !important; transform: none !important; transition: none !important; }
 @media (max-width: 900px) {
   body.hz-mirror .nav-wrap { display: none; }
 }
