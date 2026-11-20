@@ -1,6 +1,45 @@
-# 静态内容镜像：允许全部搜索引擎与 AI 爬虫读取
+# 允许全部搜索引擎与 AI 爬虫读取（含豆包、DeepSeek、Kimi、文心、通义、百度）
 
 User-agent: *
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: DeepSeekBot
+Allow: /
+
+User-agent: KimiBot
+Allow: /
+
+User-agent: MoonshotBot
+Allow: /
+
+User-agent: WenxinBot
+Allow: /
+
+User-agent: TongyiBot
+Allow: /
+
+User-agent: YisouSpider
+Allow: /
+
+User-agent: YuanbaoBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Baiduspider-image
+Allow: /
+
+User-agent: Sogou web spider
+Allow: /
+
+User-agent: 360Spider
+Allow: /
+
+User-agent: PetalBot
 Allow: /
 
 User-agent: GPTBot
@@ -30,6 +69,9 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
+User-agent: Applebot
+Allow: /
+
 User-agent: Applebot-Extended
 Allow: /
 
@@ -42,22 +84,16 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-User-agent: Bytespider
+User-agent: YouBot
 Allow: /
 
-User-agent: MoonshotBot
+User-agent: Googlebot
 Allow: /
 
-User-agent: KimiBot
+User-agent: Googlebot-Image
 Allow: /
 
-User-agent: WenxinBot
-Allow: /
-
-User-agent: TongyiBot
-Allow: /
-
-User-agent: YisouSpider
+User-agent: Bingbot
 Allow: /
 
 Sitemap: https://qisuzhuang.top/sitemap.xml
